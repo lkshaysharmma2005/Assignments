@@ -2,6 +2,7 @@
 Welcome to the Assignments Repository — a diverse collection of Python scripts, CLI tools, and web projects built as part of personal learning, academic tasks, and experimentation. Whether you're here to explore or review code, this repository covers a wide range of beginner-friendly concepts.
 
 📁 Project Structure & Overview
+
 🔹 Student Forms
 Comprehensive Student Information Form — A detailed HTML form for collecting student data.
 
