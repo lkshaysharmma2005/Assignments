@@ -1,8 +1,7 @@
 🎓 Assignments Repository
-Welcome to the Assignments Repository — a diverse collection of Python scripts, CLI tools, and web projects built as part of personal learning, academic tasks, and experimentation. Whether you're here to explore or review code, this repository covers a wide range of beginner-friendly concepts.
+Welcome to the Assignments Repository — a diverse collection of Python scripts, CLI tools, JavaScript experiments, and web projects built as part of personal learning, academic tasks, and experimentation. Whether you're here to explore or review code, this repository covers a wide range of beginner-friendly concepts.
 
 📁 Project Structure & Overview
-
 🔹 Student Forms
 Comprehensive Student Information Form — A detailed HTML form for collecting student data.
 
@@ -16,7 +15,6 @@ A terminal-based calculator implemented in Python for basic arithmetic operation
 
 🚗 Cars Website
 A static website made with HTML & CSS showcasing car-related images and designs.
-
 Includes an image folder with various assets.
 
 💸 Expense Tracker
@@ -30,7 +28,6 @@ A Python script that mimics library functions like adding books, issuing, and re
 
 🏛️ Modern Architecture Website
 A visually appealing static site highlighting modern architecture themes.
-
 Includes image assets and CSS styling.
 
 🎯 Number Guessing Game
@@ -57,6 +54,9 @@ A CLI tool to manage tasks: add, remove, and view your to-dos easily.
 📋 To-Do App
 A basic task tracker in Python that reads and writes tasks from a .txt file.
 
+📘 learning-js (New!)
+A folder dedicated to JavaScript learning. Contains small projects, exercises, and interesting code snippets written while learning JS fundamentals.
+
 🚀 How to Run
 Python Projects:
 Make sure Python is installed. Run scripts using:
@@ -75,6 +75,8 @@ Practice with Python programming.
 
 Exploration of basic web development.
 
+Learning and experimenting with JavaScript.
+
 Completing academic and personal assignments.
 
 Showcasing early development work.
@@ -83,6 +85,5 @@ Showcasing early development work.
 This is a personal learning repository, but contributions, suggestions, or feedback are welcome!
 
 📩 Contact
-Created by Lakshay Sharma
+Created by: Lakshay Sharma
 GitHub: LakshaySharma1108
-
